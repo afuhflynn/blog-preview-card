@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [My solution on frontendmentor](https://github.com/afuhflynn/blog-preview-card)
-- Live Site URL: [Live version](https://your-live-site-url.com)
+- Live Site URL: [Live version](https://hilarious-sfogliatella-ac10fa.netlify.app)
 
 ## My process
 

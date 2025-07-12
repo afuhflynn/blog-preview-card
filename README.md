@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My solution on frontendmentor](https://github.com/afuhflynn/blog-preview-card)
+- Solution URL: [My solution on frontendmentor](https://www.frontendmentor.io/solutions/blog-preview-card-ZYB0YUZalE)
 - Live Site URL: [Live version](https://hilarious-sfogliatella-ac10fa.netlify.app)
 
 ## My process

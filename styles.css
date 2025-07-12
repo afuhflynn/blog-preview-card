@@ -1,3 +1,5 @@
+@import url("./fonts.css");
+
 :root {
   --yellow: hsl(47, 88%, 63%);
   --white: hsl(0, 0%, 100%);
@@ -9,6 +11,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: "Figtree";
 }
 
 body {
@@ -33,6 +36,9 @@ body {
   flex-direction: column;
   gap: 24px;
   transition: box-shadow 0.3s ease;
+}
+.card:hover {
+  box-shadow: 16px 16px 0 var(--gray-950);
 }
 
 .card-image {
@@ -68,6 +74,13 @@ body {
   line-height: 1.5;
   margin-top: -8px;
   transition: color 0.3s ease;
+  cursor: pointer;
+}
+
+.card-title:hover,
+.card-title:focus {
+  color: var(--yellow);
+  outline: none;
 }
 
 .card-description {
